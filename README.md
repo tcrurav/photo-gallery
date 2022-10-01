@@ -11,7 +11,7 @@ Clone this respository.
 git clone https://github.com/tcrurav/photo-gallery.git
 ```
 
-* Install dependencies:
+Install dependencies:
 
 ```
 cd photo-gallery
@@ -26,7 +26,7 @@ ionic serve
 
 Enjoy!
 
-### Prerequisites
+## Prerequisites
 
 All you need is... some time and...
 * Visual Studio Code.
